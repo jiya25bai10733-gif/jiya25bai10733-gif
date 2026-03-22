@@ -42,7 +42,7 @@ I am a first-year engineering student interested in programming and problem-solv
 
 ## 🚀 Projects
 
-### 📱 Contact Book Manager
+### Contact Book Manager
 - A simple application to store, add, update, and delete contacts  
 - Helps in managing personal contact information efficiently  
 - Built using basic programming concepts  
@@ -54,4 +54,4 @@ I am a first-year engineering student interested in programming and problem-solv
 
 ---
 
-⭐ Thank you for visiting my profile!
+Thank you for visiting my profile!
