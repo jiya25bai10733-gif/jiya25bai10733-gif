@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Jiya Kalra 👋
 
-<!--
-**jiya25bai10733-gif/jiya25bai10733-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering | 1st Year  
+🏫 VIT Bhopal University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+I am a first-year engineering student interested in programming and problem-solving. I am currently improving my technical and digital skills.
+
+---
+
+## 🎯 Career Goals
+- Learn programming languages like Python and C++
+- Build real-world projects
+- Gain internship experience
+- Become a skilled software developer
+
+---
+
+## 🛠️ Skills (Learning Phase)
+- Basic Programming
+- Problem Solving
+- Microsoft Office Tools
+- Digital Literacy
+
+---
+
+## 💻 Platforms I'm Using
+- GitHub – To store and share my projects  
+- LinkedIn – For professional networking  
+- HackerRank – To practice coding  
+- ResearchGate – To explore academic research  
+
+---
+
+## 📚 Currently Learning
+- Programming Basics  
+- Data Structures (beginner level)  
+
+---
+
+## 🚀 Projects
+
+### 📱 Contact Book Manager
+- A simple application to store, add, update, and delete contacts  
+- Helps in managing personal contact information efficiently  
+- Built using basic programming concepts  
+
+---
+
+## 📫 Contact
+📧 Email: jiya.25bai10733@vitbhopal.ac.in
+
+---
+
+⭐ Thank you for visiting my profile!
