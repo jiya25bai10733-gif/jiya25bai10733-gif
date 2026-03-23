@@ -42,8 +42,8 @@ I am a first-year engineering student interested in programming and problem-solv
 ---
 
 ##  Contact
--Email: [jiya.25bai10733@vitbhopal.ac.in](jiya.25bai10733@vitbhopal.ac.in)
--linkedIn : [www.linkedin.com/in/jiya-kalra-3364763b9](www.linkedin.com/in/jiya-kalra-3364763b9)
+- Email: [jiya.25bai10733@vitbhopal.ac.in](jiya.25bai10733@vitbhopal.ac.in)  
+- linkedIn : [www.linkedin.com/in/jiya-kalra-3364763b9](www.linkedin.com/in/jiya-kalra-3364763b9) 
 
 ---
 
