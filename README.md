@@ -1,16 +1,16 @@
-# Hi, I'm Jiya Kalra 👋
+# Hi, I'm Jiya Kalra 
 
-🎓 B.Tech Computer Science Engineering | 1st Year  
-🏫 VIT Bhopal University  
+ B.Tech Computer Science Engineering | 1st Year  
+ VIT Bhopal University  
 
 ---
 
-## 🌟 About Me
+## About Me
 I am a first-year engineering student interested in programming and problem-solving. I am currently improving my technical and digital skills.
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 - Learn programming languages like Python and C++
 - Build real-world projects
 - Gain internship experience
@@ -18,7 +18,7 @@ I am a first-year engineering student interested in programming and problem-solv
 
 ---
 
-## 🛠️ Skills (Learning Phase)
+## Skills
 - Basic Programming
 - Problem Solving
 - Microsoft Office Tools
@@ -26,21 +26,13 @@ I am a first-year engineering student interested in programming and problem-solv
 
 ---
 
-## 💻 Platforms I'm Using
-- GitHub – To store and share my projects  
-- LinkedIn – For professional networking  
-- HackerRank – To practice coding  
-- ResearchGate – To explore academic research  
-
----
-
-## 📚 Currently Learning
+## Currently Learning
 - Programming Basics  
 - Data Structures (beginner level)  
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Contact Book Manager
 - A simple application to store, add, update, and delete contacts  
@@ -49,8 +41,9 @@ I am a first-year engineering student interested in programming and problem-solv
 
 ---
 
-## 📫 Contact
-📧 Email: jiya.25bai10733@vitbhopal.ac.in
+##  Contact
+Email: [jiya.25bai10733@vitbhopal.ac.in](jiya.25bai10733@vitbhopal.ac.in)
+linkedIn : [www.linkedin.com/in/jiya-kalra-3364763b9](www.linkedin.com/in/jiya-kalra-3364763b9)
 
 ---
 
